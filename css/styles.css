@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+}
+
+.container {
+  width: auto;
+  display:inline-flex;
+  flex-wrap: nowrap;
+  background-color: green;
+  border-radius: 5%;
+}
+
+.column {
+  width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+  border-radius: 15%;
+  background-color: black;
+}
